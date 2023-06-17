@@ -1,5 +1,6 @@
 # Olist_Sales_Analysis_Using_SQL_And_POWERBI
 E-commerce Insights: Unlocking Growth Opportunities for Olist
+POWERBI LINK: https://app.powerbi.com/view?r=eyJrIjoiYWNiYjM1NWItMzYzNi00NzM5LThmZjctZTdlZDFjNzAzMGI3IiwidCI6Ijg3MTMxYjliLTg3NmUtNDdkZS1hMjlhLTExMGQ4ZDM5MWRiOCJ9
 
 #Insights from Olist E-commerce Platform Analysis:
 1. Total Revenue and Revenue Trends:
