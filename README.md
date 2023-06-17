@@ -21,7 +21,9 @@ Insights from Olist E-commerce Platform Analysis:
 9. Profit Margins and Profitability:
    - Certain product categories, such as "Ferramentas_jardim" (garden tools), "casa_conforto" (home comfort), and "relogios_presentes" (watches and gifts), have higher profit margins. Focusing on these categories can drive profitability for Olist.
 These insights provide Olist with valuable information to make data-driven decisions and optimize its e-commerce platform. By understanding revenue trends, order volume, product popularity, customer ratings, seller performance, payment methods, and profitability, Olist can refine its strategies, improve customer satisfaction, and drive business growth.
+
 Here is my recommendation:
+
 1.	Implement targeted marketing campaigns to promote popular product categories and increase sales.
 2.	Analyze and address the reasons for fluctuations in revenue and order volume over the past four months.
 3.	Enhance seller performance by providing training and support to improve customer ratings and reduce order cancellations.
