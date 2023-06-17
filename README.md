@@ -1,4 +1,10 @@
+
 # Olist_Sales_Analysis_Using_SQL_And_POWERBI
+
+Olist is a Brazilian e-commerce platform that connects small and medium-sized businesses to
+customers across Brazil. The platform operates as a marketplace, where merchants can list
+their products and services and customers can browse and purchase them online.
+
 E-commerce Insights: Unlocking Growth Opportunities for Olist
 
 --POWERBI LINK: https://app.powerbi.com/view?r=eyJrIjoiYWNiYjM1NWItMzYzNi00NzM5LThmZjctZTdlZDFjNzAzMGI3IiwidCI6Ijg3MTMxYjliLTg3NmUtNDdkZS1hMjlhLTExMGQ4ZDM5MWRiOCJ9
